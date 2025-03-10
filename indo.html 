@@ -2,76 +2,80 @@
 <html lang="pt-br">
 <head>
     <meta charset="UTF-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-            <title>Harmonias Cromáticas no Design</title>
-                <link rel="stylesheet" href="styles.css">
-                </head>
-                <body>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Harmonia Cromática no Design Visual</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
 
-                    <header>
-                            <h1>Harmonias Cromáticas no Design</h1>
-                                    <p>Por Matheus Henrique</p>
-                                        </header>
+<header>
+    <h1>Matheus Henrique - Harmonia Cromática no Design Visual</h1>
+    <p>Harmonia Cromática Escolhida: <span class="highlight">Harmonia Complementar</span></p>
+    <p>Paleta de Cores Utilizada: #009688 (Teal), #004d40 (Escuro), #e64a19 (Laranja de Destaque)</p>
+</header>
 
-                                            <section id="introducao">
-                                                    <h2>Bem-vindo ao Guia de Harmonias Cromáticas</h2>
-                                                            <p>O uso correto das cores é fundamental no design. Aqui, você aprenderá sobre o círculo cromático, harmonias cromáticas e como escolher cores para um site visualmente atraente.</p>
-                                                                    <p><strong>Harmonia cromática usada:</strong> Complementar</p>
-                                                                            <p><strong>Paleta:</strong> Azul `#1E3A8A`, Laranja `#F97316`, Cinza Claro `#F3F4F6`, Branco `#FFFFFF`</p>
-                                                                                </section>
+<section class="intro">
+    <h2>O que é o Círculo Cromático?</h2>
+    <p>O círculo cromático é uma representação gráfica das cores dispostas de forma circular, em que as cores primárias (vermelho, azul e amarelo) estão dispostas em pontos equidistantes, e as cores secundárias (verde, laranja e roxo) estão entre as primárias. Ele serve como uma ferramenta importante para os designers, ajudando a visualizar as relações entre as cores e suas combinações.</p>
+    <p>Ele é fundamental para criar harmonia nas paletas de cores, pois permite entender como diferentes cores se relacionam entre si, seja por contraste, complementaridade ou gradação.</p>
+</section>
 
-                                                                                    <section id="circulo-cromatico">
-                                                                                            <h2>O que é o Círculo Cromático?</h2>
-                                                                                                    <p>O círculo cromático é uma ferramenta que organiza as cores visíveis de forma circular. Ele é composto por:</p>
-                                                                                                            <ul>
-                                                                                                                        <li><strong>Cores Primárias:</strong> Vermelho, Azul, Amarelo.</li>
-                                                                                                                                    <li><strong>Cores Secundárias:</strong> Verde, Laranja, Roxo (mistura das primárias).</li>
-                                                                                                                                                <li><strong>Cores Terciárias:</strong> Mistura entre primárias e secundárias.</li>
-                                                                                                                                                        </ul>
-                                                                                                                                                                <p>Designers usam o círculo cromático para criar combinações harmoniosas e garantir uma identidade visual equilibrada.</p>
-                                                                                                                                                                    </section>
+<section>
+    <h2>Quais são as Harmonias Cromáticas?</h2>
+    <p>As harmonias cromáticas são combinações de cores que visam criar equilíbrio e harmonia visual no design. Elas ajudam a estabelecer uma sensação de unidade e atração no layout. Aqui estão algumas das principais harmonias cromáticas:</p>
+    <ul>
+        <li><strong>Harmonia Complementar:</strong> Combina cores que estão opostas no círculo cromático. Essa combinação cria um contraste forte e é útil para chamar atenção.</li>
+        <li><strong>Harmonia Análoga:</strong> Usa cores que estão lado a lado no círculo cromático. Ela cria uma transição suave entre as cores e é ótima para designs harmoniosos e tranquilos.</li>
+        <li><strong>Harmonia Triádica:</strong> Utiliza três cores equidistantes no círculo cromático. Isso cria um design equilibrado com cores vibrantes.</li>
+        <li><strong>Harmonia Tetrádica:</strong> Usa dois pares de cores complementares, criando um design visualmente dinâmico.</li>
+        <li><strong>Harmonia de Divisão Complementar:</strong> Combina uma cor com as duas cores adjacentes à sua cor complementar. Isso cria um contraste forte, mas com menos tensão que a harmonia complementar pura.</li>
+        <li><strong>Harmonia de Quadrado:</strong> Formada por quatro cores equidistantes no círculo cromático. Oferece grande flexibilidade na escolha de cores e equilíbrio.</li>
+    </ul>
+</section>
 
-                                                                                                                                                                        <section id="harmonias">
-                                                                                                                                                                                <h2>Harmonias Cromáticas</h2>
-                                                                                                                                                                                        <p>As harmonias cromáticas são combinações específicas de cores que criam um efeito visual agradável. As principais são:</p>
-                                                                                                                                                                                                <ul>
-                                                                                                                                                                                                            <li><strong>Complementar:</strong> Usa cores opostas no círculo (exemplo: azul e laranja). Ideal para destacar elementos.</li>
-                                                                                                                                                                                                                        <li><strong>Análoga:</strong> Três cores vizinhas no círculo (exemplo: azul, azul-esverdeado e verde). Passa sensação de continuidade.</li>
-                                                                                                                                                                                                                                    <li><strong>Triádica:</strong> Três cores equidistantes no círculo (exemplo: vermelho, azul e amarelo). Dá equilíbrio e contraste.</li>
-                                                                                                                                                                                                                                                <li><strong>Tetrádica:</strong> Duas cores complementares (exemplo: azul e laranja + roxo e amarelo). Mais difícil de equilibrar.</li>
-                                                                                                                                                                                                                                                            <li><strong>Monocromática:</strong> Variações de uma mesma cor (exemplo: diferentes tons de azul). Sofisticado e uniforme.</li>
-                                                                                                                                                                                                                                                                    </ul>
-                                                                                                                                                                                                                                                                        </section>
+<section>
+    <h2>Para que Cada Harmonia Cromática Serve?</h2>
+    <p>Cada harmonia cromática tem suas vantagens e serve a propósitos diferentes no design. Veja como usá-las de forma eficaz:</p>
+    <ul>
+        <li><strong>Harmonia Complementar:</strong> Ideal para destacar um único elemento, criando uma sensação de impacto. Usada frequentemente em botões de chamada à ação (CTAs), destaques e elementos de foco.</li>
+        <li><strong>Harmonia Análoga:</strong> Usada em designs mais suaves e tranquilos. É ótima para sites de bem-estar, natureza e design minimalista, onde a harmonia e a paz visual são importantes.</li>
+        <li><strong>Harmonia Triádica:</strong> Usada para designs equilibrados e dinâmicos. Funciona bem quando se quer criar uma paleta colorida, mas ainda manter uma sensação de estabilidade.</li>
+        <li><strong>Harmonia Tetrádica:</strong> Excelente para projetos mais complexos, que exigem variedade, mas ainda assim buscam equilíbrio. Frequentemente usada em layouts de várias seções ou elementos interativos.</li>
+        <li><strong>Harmonia de Divisão Complementar:</strong> Perfeita para designs ousados, mas sem o excesso de contraste. Ela cria uma aparência equilibrada com algum destaque.</li>
+        <li><strong>Harmonia de Quadrado:</strong> Ideal para sites e projetos com várias cores, como aqueles voltados para a moda, arte ou áreas criativas.</li>
+    </ul>
+</section>
 
-                                                                                                                                                                                                                                                                            <section id="aplicacao">
-                                                                                                                                                                                                                                                                                    <h2>Como Escolher as Cores para um Site</h2>
-                                                                                                                                                                                                                                                                                            <p>A escolha das cores influencia diretamente na experiência do usuário. Aqui estão algumas diretrizes:</p>
-                                                                                                                                                                                                                                                                                                    <ul>
-                                                                                                                                                                                                                                                                                                                <li><strong>Cabeçalhos:</strong> Use a cor mais forte da paleta (exemplo: azul escuro para destaque).</li>
-                                                                                                                                                                                                                                                                                                                            <li><strong>Parágrafos:</strong> Utilize tons neutros como cinza para facilitar a leitura.</li>
-                                                                                                                                                                                                                                                                                                                                        <li><strong>Botões:</strong> Devem contrastar com o fundo (exemplo: laranja vibrante sobre fundo azul).</li>
-                                                                                                                                                                                                                                                                                                                                                    <li><strong>Links:</strong> Use uma variação da cor principal e destaque quando passar o mouse.</li>
-                                                                                                                                                                                                                                                                                                                                                                <li><strong>Bordas e separadores:</strong> Cinza médio pode ser usado para criar divisões sem roubar atenção.</li>
-                                                                                                                                                                                                                                                                                                                                                                        </ul>
-                                                                                                                                                                                                                                                                                                                                                                            </section>
+<section>
+    <h2>Como Escolher as Cores dos Elementos do Site?</h2>
+    <p>A escolha das cores para diferentes elementos do site deve ser feita com cuidado para garantir que o design final seja agradável e funcional. Abaixo estão algumas dicas para cada parte do seu site:</p>
+    <ul>
+        <li><strong>Cabeçalhos:</strong> Os cabeçalhos são as áreas onde você pode usar cores mais vibrantes para chamar atenção. Para a harmonia complementar, você pode usar uma cor oposta ao fundo.</li>
+        <li><strong>Parágrafos:</strong> Use cores suaves e de fácil leitura, como tons de cinza ou cores mais claras, para o texto do corpo. Evite cores muito fortes, que podem prejudicar a legibilidade.</li>
+        <li><strong>Bordas:</strong> As bordas podem ser de uma cor contrastante ou complementar para criar separação e destaque. Use-as com moderação para evitar sobrecarregar a página.</li>
+        <li><strong>Listas:</strong> Itens de listas podem ser destacados com uma cor secundária ou de destaque. Isso ajuda a dar ênfase sem prejudicar a harmonia geral.</li>
+        <li><strong>Links:</strong> Links devem ter uma cor distinta para atrair atenção, mas ainda dentro da paleta cromática escolhida. Utilize uma cor vibrante que complemente o design sem quebrar a harmonia.</li>
+        <li><strong>Tabelas:</strong> O fundo das tabelas deve ser de uma cor suave, para garantir que o texto seja legível. Use bordas ou linhas de separação de uma cor complementar ou contrastante para definição.</li>
+    </ul>
+</section>
 
-                                                                                                                                                                                                                                                                                                                                                                                <section id="ferramentas">
-                                                                                                                                                                                                                                                                                                                                                                                        <h2>Ferramentas para Escolher Paletas de Cores</h2>
-                                                                                                                                                                                                                                                                                                                                                                                                <p>Estas ferramentas ajudam a criar paletas harmoniosas para projetos visuais:</p>
-                                                                                                                                                                                                                                                                                                                                                                                                        <ul>
-                                                                                                                                                                                                                                                                                                                                                                                                                    <li><a href="https://color.adobe.com" target="_blank">Adobe Color</a> – Gera combinações baseadas no círculo cromático.</li>
-                                                                                                                                                                                                                                                                                                                                                                                                                                <li><a href="https://coolors.co" target="_blank">Coolors</a> – Paletas personalizadas com geração automática.</li>
-                                                                                                                                                                                                                                                                                                                                                                                                                                            <li><a href="https://paletton.com" target="_blank">Paletton</a> – Simula diferentes harmonias cromáticas.</li>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                        <li><a href="https://material.io/resources/color" target="_blank">Material Design Colors</a> – Paletas do Google Material Design.</li>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <li><a href="https://www.canva.com/colors/color-palette-generator/" target="_blank">Canva Colors</a> – Gera paletas a partir de imagens.</li>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                <li><a href="https://www.colormind.io/" target="_blank">Colormind</a> – Sugestões de cores com inteligência artificial.</li>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        </ul>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            </section>
+<section>
+    <h2>Ferramentas para Escolher Paletas de Cores</h2>
+    <p>Existem várias ferramentas online que podem ajudá-lo a escolher paletas de cores com base nas harmonias cromáticas. Aqui estão algumas delas:</p>
+    <ul>
+        <li><a href="https://coolors.co/" target="_blank">Coolors</a> - Ferramenta fácil de usar para gerar paletas de cores complementares e outras opções.</li>
+        <li><a href="https://paletton.com/" target="_blank">Paletton</a> - Uma ferramenta poderosa para explorar diferentes combinações de cores e visualizar como elas funcionam juntas.</li>
+        <li><a href="https://color.adobe.com/pt/create/color-wheel" target="_blank">Adobe Color</a> - Excelente para criar paletas de cores e experimentar diferentes harmônias cromáticas.</li>
+        <li><a href="https://colormind.io/" target="_blank">Colormind</a> - Uma ferramenta que utiliza inteligência artificial para sugerir paletas de cores baseadas em design moderno e tendências.</li>
+        <li><a href="https://www.materialui.co/colors" target="_blank">Material UI Colors</a> - Ideal para desenvolvedores que buscam paletas de cores para interfaces de usuário.</li>
+        <li><a href="https://www.sessions.edu/color-calculator/" target="_blank">Sessions Color Calculator</a> - Ajuda a calcular cores complementares e outros tipos de harmonias cromáticas.</li>
+    </ul>
+</section>
 
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                <footer>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <p>© 2025 Matheus Henrique - Todos os direitos reservados.</p>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            </footer>
+<footer class="footer">
+    <p>&copy; 2025 Matheus Henrique - Todos os direitos reservados</p>
+</footer>
 
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            </body>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            </html>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            
+</body>
+</html>
